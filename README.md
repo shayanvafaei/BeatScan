@@ -13,7 +13,6 @@ This dataset has been used in exploring heartbeat classification using deep neur
 **Content**
 
 Arrhythmia Dataset
-
 Number of Samples: 109446
 
 Number of Categories: 5
