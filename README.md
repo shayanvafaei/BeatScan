@@ -9,7 +9,7 @@ This dataset is composed of two collections of heartbeat signals derived from tw
 
 This dataset has been used in exploring heartbeat classification using deep neural network architectures, and observing some of the capabilities of transfer learning on it. The signals correspond to electrocardiogram (ECG) shapes of heartbeats for the normal case and the cases affected by different arrhythmias and myocardial infarction. These signals are preprocessed and segmented, with each segment corresponding to a heartbeat.
 
-Content
+Content \n
 Arrhythmia Dataset
 Number of Samples: 109446
 Number of Categories: 5
