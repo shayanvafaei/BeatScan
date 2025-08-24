@@ -34,4 +34,12 @@ Sampling Frequency: 125Hz
 
 Data Source: Physionet's PTB Diagnostic Database
 
+**Remark:** All the samples are cropped, downsampled and padded with zeroes if necessary to the fixed dimension of 188.
+
+**Data Files**
+This dataset consists of a series of CSV files. Each of these CSV files contain a matrix, with each row representing an example in that portion of the dataset. The final element of each row denotes the class to which that example belongs.
+
+Acknowledgements
+Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classification: A Deep Transferable Representation." arXiv preprint arXiv:1805.00794 (2018).
+
 
