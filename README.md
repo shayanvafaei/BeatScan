@@ -1,2 +1,2 @@
 # MI-Detection 🫀
-Myocardial Infarction Detection
+Myocardial Infarction (Heart Attack) Detection
