@@ -19,7 +19,7 @@ This dataset has been used in exploring heartbeat classification using deep neur
 
 Number of Samples: 109446
 
-Number of Categories: 5
+Number of Categories: 5 (Normal beats (N), Supraventricular ectopic beats (S), Ventricular ectopic beats (V), Fusion beats (F), Unknown beats (Q) or unclassified beats)
 
 Sampling Frequency: 125Hz
 
@@ -31,7 +31,7 @@ Classes: ['N': 0, 'S': 1, 'V': 2, 'F': 3, 'Q': 4]
 
 Number of Samples: 14552
 
-Number of Categories: 2
+Number of Categories: 2 (normal, abnormal)
 
 Sampling Frequency: 125Hz
 
