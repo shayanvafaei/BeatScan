@@ -1,6 +1,7 @@
 # MI-Detection 🫀
 Myocardial Infarction (Heart Attack) Detection
 
+<img width="300" height="184" alt="image" src="https://github.com/user-attachments/assets/0430ef2b-b943-4fbc-b83d-74cbaab7d4d7" />
 <img width="770" height="500" alt="image" src="https://github.com/user-attachments/assets/26369c44-780b-4261-88ca-f7eb80fbb3b5" />
 
 
