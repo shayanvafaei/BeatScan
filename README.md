@@ -44,5 +44,6 @@ Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classific
 
 ## **Results**
 **Training Accuracy: 0.9943**
+
 **Test Accuracy: 0.9822**
 
