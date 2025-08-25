@@ -3,6 +3,7 @@ Myocardial Infarction (Heart Attack) Detection
 
 <img width="1920" height="1005" alt="image" src="https://github.com/user-attachments/assets/82c6a046-4ddb-4131-ab93-41bc4f79ac67" />
 
+## **Data**
 Dataset: ECG Heartbeat Categorization Dataset 
 likk: https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 
