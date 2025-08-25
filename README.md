@@ -42,4 +42,7 @@ This dataset consists of a series of CSV files. Each of these CSV files contain 
 Acknowledgements
 Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classification: A Deep Transferable Representation." arXiv preprint arXiv:1805.00794 (2018).
 
+## **Results**
+**Training Accuracy: 0.9943**
+**Test Accuracy: 0.9822**
 
