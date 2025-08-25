@@ -47,7 +47,10 @@ Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classific
 
 ## **Results**
 
-**Training Accuracy: 0.9943**
+**Arrhythmia Dataset**
+Training Accuracy: in progress, Test Accuracy: in progress
 
-**Test Accuracy: 0.9822**
+**The PTB Diagnostic ECG Database**
+Training Accuracy: 0.9943, Test Accuracy: 0.9822
+
 
