@@ -1,6 +1,9 @@
 # MI-Detection 🫀
 Myocardial Infarction (Heart Attack) Detection
 
+<img width="770" height="500" alt="image" src="https://github.com/user-attachments/assets/26369c44-780b-4261-88ca-f7eb80fbb3b5" />
+
+
 Dataset: ECG Heartbeat Categorization Dataset 
 likk: https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 
