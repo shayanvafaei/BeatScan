@@ -43,6 +43,8 @@ Acknowledgements
 Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classification: A Deep Transferable Representation." arXiv preprint arXiv:1805.00794 (2018).
 
 ## **Results**
+<img width="1490" height="490" alt="image" src="https://github.com/user-attachments/assets/41f29eca-7765-4802-aee1-1e24571c2637" />
+
 **Training Accuracy: 0.9943**
 
 **Test Accuracy: 0.9822**
